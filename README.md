@@ -123,7 +123,6 @@
 <ul>
 <li>Object Oriented Languages: https://goo.gl/chcD4L</li>
 <li>C# for Unity: https://goo.gl/dJsHf6</li>
-<li>Understanding Unity Scripting: https://goo.gl/hY1Fft</li>
 <li>Advanced Unity Scripting: https://goo.gl/uXct66</li>
 </ul>
 <h1>Grading</h1>
