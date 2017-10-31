@@ -1,3 +1,4 @@
+![Screenshot](Unityenginelogo.jpg)
 <h1><strong>Skilling Module 1 | Scripting in Unity</strong></h1>
 <p>Tutor: Octavian Gheorghiu</p>
 <h1>Overview and purpose</h1>
