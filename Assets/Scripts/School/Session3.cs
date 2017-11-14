@@ -8,7 +8,7 @@ public class Session3 : MonoBehaviour {
     int counter = 0;
     public GameObject cubeReference;
     bool moveLeft = true;
-    bool moveRight = false;
+    bool moveRight = false; 
 
     // Use this for initialization
     void Start () {
