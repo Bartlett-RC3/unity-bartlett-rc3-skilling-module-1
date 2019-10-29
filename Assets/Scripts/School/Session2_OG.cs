@@ -58,10 +58,10 @@ public class Session2_OG : MonoBehaviour {
 
         // Questions we can ask
         // If something is smaller or bigger
-        // <, >
+        // <, >, <=, >=
 
-        // If somering is qeual to soemthing else
-        // ==
+        // If somering is equal to soemthing else
+        // ==, !=
 
         // Asking multiple question
         if(number1 < number2 && someBool == true ){
